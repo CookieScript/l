@@ -1,7 +1,0 @@
---[[
-
-Made by Dino
-
-]]
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CookieScript/Fixscript/refs/heads/main/Dino-anti-lock", true))()
